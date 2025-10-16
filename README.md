@@ -1,14 +1,11 @@
 # ChatWithPDF — Agentic PDF Conversational Agent 📄🤖
 
-
-[![Watch Demo](https://img.youtube.com/vi/1JOF6l-LdlqLCC72-UNIT_QtzZdvQZ6ig/0.jpg)](https://drive.google.com/file/d/1JOF6l-LdlqLCC72-UNIT_QtzZdvQZ6ig/view?usp=drive_link)
-
 **Demo Video**:  
-[▶️ Watch the demo on Google Drive](https://drive.google.com/file/d/1JOF6l-LdlqLCC72-UNIT_QtzZdvQZ6ig/view?usp=drive_link)
+https://drive.google.com/file/d/1JOF6l-LdlqLCC72-UNIT_QtzZdvQZ6ig/view?usp=sharing
 
 ---
 ### Project Link :
-https://drive.google.com/drive/folders/1V8p1bRjuiW_kcJSs47c0N1_dyw4CAlqe?usp=drive_link
+[https://drive.google.com/drive/folders/1V8p1bRjuiW_kcJSs47c0N1_dyw4CAlqe?usp=drive_link](https://drive.google.com/drive/folders/1V8p1bRjuiW_kcJSs47c0N1_dyw4CAlqe?usp=sharing)
 
 ## 🔍 Project Overview
 
